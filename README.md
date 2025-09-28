@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hungdevguy</h1>
-<h3 align="center">I'm an IT student at PTIT (Posts and Telecommunications Institute of Technology, currently pursuing a career as an AI engineer!</h3>
+<h3 align="center">I'm an IT student at PTIT (Posts and Telecommunications Institute of Technology), currently pursuing a career as an AI engineer!</h3>
 
 - 💬 Ask me about **ML, DL, NLP, LLM**
 
